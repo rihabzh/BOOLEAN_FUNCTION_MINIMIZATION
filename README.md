@@ -41,7 +41,8 @@ Hardware – PCs, Cyclone II , USB flasher
 6. endmodule
 
 Developed by:RIHAB ZAKKAIR HUSSAIN
-RegisterNumber:25015140 */
+
+RegisterNumber:25015140 
 
 
 **RTL realization**
